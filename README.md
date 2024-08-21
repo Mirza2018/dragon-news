@@ -57,7 +57,7 @@ npm run dev
 ## **Project Structure**
 
 ```plaintext
-ecommerce-app/
+dragon-news/
 ├── public/
 ├── src/
 │   ├── assets/              # Images, icons, etc.
