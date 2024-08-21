@@ -1,7 +1,7 @@
 import React from 'react';
 import { Button, ListGroup } from 'react-bootstrap';
 import { FaGoogle, FaGithub,FaFacebook,FaTwitterSquare,FaInstagram } from 'react-icons/fa';
-import bg from '../../../../../assets/bg.png'
+import bg from '../../../../../assets/1.png'
 import Qzon from '../Qzon/Qzon';
 
 const RightNav = () => {
