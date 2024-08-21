@@ -43,7 +43,7 @@ This is a full-fledged News web application built with React.js. It allows users
 To get started with this project, clone the repository and install the dependencies:
 
 ```bash
-https://github.com/Mirza2018/dragon-news
+https://github.com/Mirza2018/dragon-news.git
 cd dragon-news
 npm install
 ```
