@@ -1,4 +1,4 @@
-# **The Dragon News**
+# **The BD Prime News**
 
 ![Logo](/public/news.png) 
 
