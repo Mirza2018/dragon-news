@@ -1,6 +1,6 @@
 import React, { useContext } from 'react';
 
-import logo from '../../../../../assets/logo.png'
+import logo from '/news.png'
 import moment from 'moment';
 import Marquee from "react-fast-marquee";
 import { Button, Container, Nav, Navbar } from 'react-bootstrap';
@@ -14,7 +14,7 @@ const Header = () => {
             <Link to='/'></Link>
             <Link to='/'></Link> */}
 
-            <div className="text-center"><img src={logo} alt="" />
+            <div className="text-center"><img width={150} src={logo} alt="" />
                 <p className='text-secondary'><small>Journalism Without Fear or Favour</small></p>
                 <p>{moment().format('dddd, Do MMMM ,LTS ')}</p>
           

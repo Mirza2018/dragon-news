@@ -3,7 +3,7 @@ import React from 'react';
 const Footer = () => {
     return (
 
-<footer className="bg-blue-100/80 font-sans dark:bg-gray-900">
+<footer className="bg-blue-100/80 font-sans dark:bg-gray-900 mx- auto ">
     <div className="container px-6 py-12 mx-auto">
     
         
@@ -25,7 +25,7 @@ const Footer = () => {
                 <img src="https://www.svgrepo.com/show/22048/dribbble.svg" className="" width="30" height="30" alt="db" />
             </div>
         </div>
-        <p className="font-sans p-8 text-start md:text-center md:text-lg md:p-4">© 2024 Dragon News. All rights reserved.</p>
+        <p className="font-sans p-8 text-start md:text-center md:text-lg md:p-4">© 2024 BD Prime News. All rights reserved.</p>
     </div>
 </footer>
 

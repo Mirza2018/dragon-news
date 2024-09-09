@@ -1,6 +1,6 @@
 # **The Dragon News**
 
-![Logo](https://i.ibb.co/gVgBKvr/Screenshot-2024-08-21-165137.png) 
+![Logo](/public/news.png) 
 
 
 
@@ -22,14 +22,14 @@ This is a full-fledged News web application built with React.js. It allows users
 
 ## **Features**
 
-- User Authentication (Sign Up, Login, Logout)
 - News watch by Categories
 - Responsive Design
+- User Authentication (Sign Up, Login, Logout)
 
 
 ## **Technologies Used**
 
-- **Frontend**: React.js, React Router
+- **Frontend**: React.js, React Router, React Fast Marquee, Moment.js
 - **Backend**: Node.js, Express.js 
 - **Database**: MongoDB 
 - **Styling**: Bootstrap
@@ -76,9 +76,9 @@ dragon-news/
 ## **Screenshots**
 
 #### **Running the App**
-![Home Page 1](https://i.ibb.co/gVgBKvr/Screenshot-2024-08-21-165137.png) 
-![Home Page 2](https://i.ibb.co/LkKGHPT/Screenshot-2024-08-21-165152.png) 
-![Home Page 3](https://i.ibb.co/4Z6Ktnp/Screenshot-2024-08-21-165226.png) 
+![Home Page 1](/public/h1.png) 
+![Home Page 2](/public/h2.png) 
+![Home Page 3](/public/h3.png) 
 
 
 
